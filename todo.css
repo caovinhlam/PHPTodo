@@ -1,0 +1,29 @@
+.delete {
+	color: white;
+	background: #a52a2a;
+	padding: 1px 6px;
+	border-radius: 3px;
+    text-decoration: none;
+}
+
+.deleteCell {
+    text-align: center;
+}
+
+.centre {
+    text-align: center !important;
+}
+
+th, td {
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+div.centre input {
+    margin-right: auto;
+    margin-left: auto;
+}
